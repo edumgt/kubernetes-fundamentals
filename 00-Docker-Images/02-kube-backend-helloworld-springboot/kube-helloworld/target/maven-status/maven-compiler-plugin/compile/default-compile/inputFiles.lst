@@ -1,0 +1,3 @@
+/workspaces/kubernetes-fundamentals/00-Docker-Images/02-kube-backend-helloworld-springboot/kube-helloworld/src/main/java/com/stacksimplify/helloworld/serverinfo/ServerInformationService.java
+/workspaces/kubernetes-fundamentals/00-Docker-Images/02-kube-backend-helloworld-springboot/kube-helloworld/src/main/java/com/stacksimplify/helloworld/HelloworldApplication.java
+/workspaces/kubernetes-fundamentals/00-Docker-Images/02-kube-backend-helloworld-springboot/kube-helloworld/src/main/java/com/stacksimplify/helloworld/HelloWorldController.java
